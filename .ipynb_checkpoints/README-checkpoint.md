@@ -32,4 +32,6 @@ Here I will display a summary of the results from my analysis.
   * Recall Risky Loan (1): 99%
 
 ## Summary
-In summary, I would suggest using the second model. It scores better than model 1 in all areas I calculated, with an impressive balanced accuracy score of 99.4%. Model 2 also showed 99% recall for both outcomes, giving me more confidence in this model. I would like to explore ways to further improve its precision however, as it only achieved 84% precision in detecting risky loans.
+In summary, I would suggest using the second model. It scores better than model 1 in all areas we calculated, with an impressive balanced accuracy score of 99.4%. Model 2 also showed 99% recall for both outcomes, giving me more confidence in this model. I would like to explore ways to further improve its precision however, as it achieved 84% precision at detecting risky loans.
+
+* Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
